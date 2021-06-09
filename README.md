@@ -1,2 +1,2 @@
-# Katapa
-This application is made to monitor my garden.
+# Kapenta
+This application is made to monitor my sardines.
